@@ -3,7 +3,8 @@
 ## <div align= "center"> A passionate Tech learner </div>
 
 <img src = "https://user-images.githubusercontent.com/78593368/119228157-4fb43800-bb2f-11eb-950a-35f149e3b672.png" height ="550" width="450" align="left" HSPACE="100"/> <h3><br> Welcome to my Github ! </h3></br> <br> I am an engineering student with a passion to learn tools, technologies and languages. The perfect blend of technology with business always excites me. I never let my non-cs background resist me from becoming the part of tech community. </br> 
-> Failure is an option here. If things are not failing, you are not innovating enough. <BR CLEAR ="left"/> 
+> <br> *Failure is an option here. If things are not failing, you are not innovating enough.* </br>
+> *-Elon Musk* <BR CLEAR ="left"/> 
 
 
 
@@ -30,8 +31,8 @@
  
 ## :iphone: Let's connect :
 
-* Linkedin
-* gmail
+<a href="https//:www.linkedin.com/in/anamika-tripathi1601" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119231709-dffa7900-bb3f-11eb-8c14-8f3a380a6216.png" height ="33" width="33"/></a>
+
 
 
 
