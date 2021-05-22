@@ -6,30 +6,27 @@
 > <br> *Failure is an option here. If things are not failing, you are not innovating enough.* </br>
 > *-Elon Musk* <BR CLEAR ="left"/> 
 
-
-
-
-## :books: Currently learning :
-
+## Currently learning :books:
 * Data science
 * Machine learning
-* UX Design
+* UX Design 
 
-## :wrench: Tools and Languages : 
+ ## Tools and Languages :wrench:
+<a href="https://www.tensorflow.org/" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119234536-12aa6e80-bb4c-11eb-879c-399c58c3f309.png" height ="33" width="33"/></a>
+<a href="https://jupyter.org/" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119234623-8c425c80-bb4c-11eb-9312-f33b64a0b2ee.png" height ="33" width="33"/></a>
+<a href="https://www.python.org/" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119234741-07a40e00-bb4d-11eb-8ad9-6dcda5e91119.png" height ="33" width="33"/></a>
+<a href="https://www.anaconda.com/" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119235002-09ba9c80-bb4e-11eb-9c56-135fd1a19aa2.png" height ="33" width="33"/></a>
+<a href="https://git-scm.com/" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119235148-a715d080-bb4e-11eb-8df6-f15a29be375a.png" height ="33" width="33"/></a>
+<a href="https://desktop.github.com/" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119235203-f5c36a80-bb4e-11eb-97a6-9f27a23ce937.png" height ="33" width="33"/></a>
+<a href="https://pymol.org/2/" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119235458-4b4c4700-bb50-11eb-811e-6a7460337d25.png" height ="33" width="33"/></a>
 
-* Python
-* Jupyter Notebook
-* Tensorflow
-* Adobe XD
-* Figma
 
-## :art: My Hobbies : 
 
-* Reading
-* Painting
-* Cooking
+
+<img src = "https://user-images.githubusercontent.com/78593368/119234145-eaba0b80-bb49-11eb-9048-a8160340329e.png" height ="250" width="350" align="right" HSPACE="50"/> <h6><br> Hobbies <img src="https://user-images.githubusercontent.com/78593368/119236113-4210a980-bb53-11eb-9ec5-a5294f1ee549.gif" height ="33" width="33"> </h6></br> 
+ <BR CLEAR ="right"/>  
  
-## :iphone: Let's connect :
+## Let's connect :iphone:
 
 <a href="https://www.linkedin.com/in/anamika-tripathi1601" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119232134-a62a7200-bb41-11eb-9044-25fd92d399a7.png" height ="33" width="33"/></a>
 <a href="mailto:tripathianamika927@gmail.com" target="blank"> <img align="left" src = "https://user-images.githubusercontent.com/78593368/119232222-08837280-bb42-11eb-8d08-0bffddebd4f4.png" height ="33" width="33"/></a>
