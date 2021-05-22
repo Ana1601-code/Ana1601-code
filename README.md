@@ -32,7 +32,7 @@
 ## :iphone: Let's connect :
 
 <a href="https://www.linkedin.com/in/anamika-tripathi1601" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119232134-a62a7200-bb41-11eb-9044-25fd92d399a7.png" height ="33" width="33"/></a>
-<a href="https://tripathianamika927@gmail.com" target="blank"> <img align="left" src = "https://user-images.githubusercontent.com/78593368/119232222-08837280-bb42-11eb-8d08-0bffddebd4f4.png" height ="33" width="33"/></a>
+<a href="mailto:tripathianamika927@gmail.com" target="blank"> <img align="left" src = "https://user-images.githubusercontent.com/78593368/119232222-08837280-bb42-11eb-8d08-0bffddebd4f4.png" height ="33" width="33"/></a>
 
 
 
