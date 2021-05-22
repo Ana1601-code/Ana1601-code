@@ -1,7 +1,10 @@
-<h1 align= "centre"> Hi <img src = "https://user-images.githubusercontent.com/78593368/119226953-4de77600-bb29-11eb-8d16-9479fa967348.gif" width="55px" height="55px"> I'm Anamika </h1>
+# <div align= "center" > Hi <img src = "https://user-images.githubusercontent.com/78593368/119226953-4de77600-bb29-11eb-8d16-9479fa967348.gif" width="55px" height="55px"> I'm Anamika Tripathi </div>
 
+## <div align= "center"> A passionate Tech learner </div>
 
-![Me](https://user-images.githubusercontent.com/78593368/119221729-4666a380-bb0e-11eb-9717-f7fadeb8cdaf.png)
+<img src = "https://user-images.githubusercontent.com/78593368/119228157-4fb43800-bb2f-11eb-950a-35f149e3b672.png" height ="550" width="450">
+
+### <div align="right"> <div align="top"> Welcome to my Github, let me tell you about me ! </div> </div>
 
 I am an engineering student with a passion to learn tools, technologies and languages. The perfect blend of technology with business always excites me. I never let my non-cs background resist me from becoming the part of tech community.  
 
