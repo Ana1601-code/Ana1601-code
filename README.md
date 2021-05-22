@@ -1,4 +1,8 @@
-### Hi 👋 <![Hi] (https://user-images.githubusercontent.com/78593368/119217913-17930200-bafb-11eb-9b11-7f552dd81c1d.gif) width="250" height="250"/>
+# Hi, I'm Anamika 👋:information_desk_person: 
+
+![Me](https://user-images.githubusercontent.com/78593368/119221729-4666a380-bb0e-11eb-9717-f7fadeb8cdaf.png)
+
+
 
 
 <!--
