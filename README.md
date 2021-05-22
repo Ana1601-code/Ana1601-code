@@ -19,6 +19,9 @@
 <a href="https://git-scm.com/" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119235148-a715d080-bb4e-11eb-8df6-f15a29be375a.png" height ="33" width="33"/></a>
 <a href="https://desktop.github.com/" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119235203-f5c36a80-bb4e-11eb-97a6-9f27a23ce937.png" height ="33" width="33"/></a>
 <a href="https://pymol.org/2/" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119235458-4b4c4700-bb50-11eb-811e-6a7460337d25.png" height ="33" width="33"/></a> 
+<a href="https://code.visualstudio.com/" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119237931-290cf600-bb5d-11eb-9381-375cbc5de655.png" height ="33" width="33"/></a> 
+<a href="https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true/" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119237992-8143f800-bb5d-11eb-81d2-17f9c596c54c.png" height ="33" width="33"/></a> 
+<a href="https://www.ibm.com/in-en/cloud/watson-studio" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119238028-b8b2a480-bb5d-11eb-923a-7d2d93ce5481.png" height ="33" width="33"/></a>
 >.
 
 ##  Hobbies <img src="https://user-images.githubusercontent.com/78593368/119236113-4210a980-bb53-11eb-9ec5-a5294f1ee549.gif" height ="33" width="33"> 
