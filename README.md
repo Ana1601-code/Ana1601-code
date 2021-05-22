@@ -2,7 +2,7 @@
 
 ## <div align= "center"> A passionate Tech learner </div>
 
-<img src = "https://user-images.githubusercontent.com/78593368/119228157-4fb43800-bb2f-11eb-950a-35f149e3b672.png" height ="550" width="350" align="left" HSPACE="100"/> <h3><br> Welcome to my Github ! </h3></br> <br> I am an engineering student with a passion to learn tools, technologies and languages. The perfect blend of technology with business always excites me. I never let my non-cs background resist me from becoming the part of tech community. </br> 
+<img src = "https://user-images.githubusercontent.com/78593368/119228157-4fb43800-bb2f-11eb-950a-35f149e3b672.png" height ="550" width="400" align="left" HSPACE="100"/> <h3><br> Welcome to my Github ! </h3></br> <br> I am an engineering student with a passion to learn tools, technologies and languages. The perfect blend of technology with business always excites me. I never let my non-cs background resist me from becoming the part of tech community. </br> 
 > <br> *Failure is an option here. If things are not failing, you are not innovating enough.* </br>
 > *-Elon Musk* <BR CLEAR ="left"/> 
 
