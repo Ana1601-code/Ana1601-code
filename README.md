@@ -31,7 +31,7 @@
  
 ## :iphone: Let's connect :
 
-<a href="https//:www.linkedin.com/in/anamika-tripathi1601" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119231709-dffa7900-bb3f-11eb-8c14-8f3a380a6216.png" height ="33" width="33"/></a>
+<a href="https://www.linkedin.com/in/anamika-tripathi1601" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119231709-dffa7900-bb3f-11eb-8c14-8f3a380a6216.png" height ="33" width="33"/></a>
 
 
 
