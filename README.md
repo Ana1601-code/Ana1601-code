@@ -25,7 +25,7 @@
 >.
 
 ##  Hobbies <img src="https://user-images.githubusercontent.com/78593368/119236113-4210a980-bb53-11eb-9ec5-a5294f1ee549.gif" height ="33" width="33"> 
-* I like to read self-care books and technical blogs
+* I like to read technical blogs and self-help books 
 * Listening music calms me down 
 * Spending time in painting and cooking works like a therapy for me
  
