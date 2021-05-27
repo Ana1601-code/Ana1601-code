@@ -9,6 +9,7 @@
 ## Currently learning :books:
 * Data science
 * Machine learning
+* Deep learning
 * UX Design 
 
 ## Tools and Languages :wrench: 
