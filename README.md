@@ -33,6 +33,7 @@
 
 <a href="https://www.linkedin.com/in/anamika-tripathi1601" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119232134-a62a7200-bb41-11eb-9044-25fd92d399a7.png" height ="33" width="33"/></a>
 <a href="mailto:tripathianamika927@gmail.com" target="blank"> <img align="left" src = "https://user-images.githubusercontent.com/78593368/119232222-08837280-bb42-11eb-8d08-0bffddebd4f4.png" height ="33" width="33"/></a>
+<a href="http://twitter.com/itismeAnamika" target="blank"> <img align="left" src = "https://user-images.githubusercontent.com/78593368/119869722-33a10400-bf3e-11eb-9cd2-06a5aa214e40.png" height ="33" width="33"/></a>
 
 <img src = "https://user-images.githubusercontent.com/78593368/119237134-01b42a00-bb59-11eb-999b-70f60ec2fc16.png" height ="350" width="450" align="right" HSPACE="40" VSPACE="50"/> <BR CLEAR ="right"/> 
 
