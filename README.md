@@ -23,6 +23,7 @@
 <a href="https://code.visualstudio.com/" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119237931-290cf600-bb5d-11eb-9381-375cbc5de655.png" height ="33" width="33"/></a> 
 <a href="https://colab.research.google.com/notebooks/intro.ipynb?utm_source=scs-index#recent=true/" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119237992-8143f800-bb5d-11eb-81d2-17f9c596c54c.png" height ="33" width="33"/></a> 
 <a href="https://www.ibm.com/in-en/cloud/watson-studio" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119238028-b8b2a480-bb5d-11eb-923a-7d2d93ce5481.png" height ="33" width="33"/></a>
+<a href="https://html.spec.whatwg.org/" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/120693848-29937e00-c4c7-11eb-960c-c60ad4d1809d.png" height ="33" width="33"/></a>
 >.
 
 ##  Hobbies <img src="https://user-images.githubusercontent.com/78593368/119236113-4210a980-bb53-11eb-9ec5-a5294f1ee549.gif" height ="33" width="33"> 
