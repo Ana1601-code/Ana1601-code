@@ -7,7 +7,7 @@
 
 
 ## Tools and Languages :wrench: 
-<a href="https://www.tensorflow.org/" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119234536-12aa6e80-bb4c-11eb-879c-399c58c3f309.png" height ="33" width="33"/></a>
+<a href="https://www.tensorflow.org/" target="blank"> <img align="left" src ="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height ="33" width="33"/></a>
 <a href="https://jupyter.org/" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119234623-8c425c80-bb4c-11eb-9312-f33b64a0b2ee.png" height ="33" width="33"/></a>
 <a href="https://www.python.org/" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119234741-07a40e00-bb4d-11eb-8ad9-6dcda5e91119.png" height ="33" width="33"/></a>
 <a href="https://www.anaconda.com/" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119235002-09ba9c80-bb4e-11eb-9c56-135fd1a19aa2.png" height ="33" width="33"/></a>
