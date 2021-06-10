@@ -2,15 +2,9 @@
 
 ## <div align= "center"> A passionate Tech learner </div>
 
-<img src = "https://user-images.githubusercontent.com/78593368/119228157-4fb43800-bb2f-11eb-950a-35f149e3b672.png" height ="550" width="400" align="left" HSPACE="100"/> <h3><br> Welcome to my Github ! </h3></br> <br> I am an engineering student with a passion to learn tools, technologies and languages. The perfect blend of technology with business always excites me. I never let my non-cs background resist me from becoming the part of tech community. </br> 
-> <br> *Failure is an option here. If things are not failing, you are not innovating enough.* </br>
-> *-Elon Musk* <BR CLEAR ="left"/> 
+![h-readme](https://user-images.githubusercontent.com/78593368/121583621-1e53cb80-ca4e-11eb-9f22-c83dd1f9432c.png)
 
-## Currently learning :books:
-* Data science
-* Machine learning
-* Deep learning
-* UX Design 
+
 
 ## Tools and Languages :wrench: 
 <a href="https://www.tensorflow.org/" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119234536-12aa6e80-bb4c-11eb-879c-399c58c3f309.png" height ="33" width="33"/></a>
@@ -29,7 +23,7 @@
 ##  Hobbies <img src="https://user-images.githubusercontent.com/78593368/119236113-4210a980-bb53-11eb-9ec5-a5294f1ee549.gif" height ="33" width="33"> 
 * I like to read technical blogs and newsletters
 * Listening music calms me down 
-* Spending time in painting and cooking works like a therapy for me
+* Understanding social media analytics and content writing
  
 ## Let's connect :iphone:
 
