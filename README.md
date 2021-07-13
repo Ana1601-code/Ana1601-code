@@ -19,7 +19,8 @@
 <a href="https://www.ibm.com/in-en/cloud/watson-studio" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/119238028-b8b2a480-bb5d-11eb-923a-7d2d93ce5481.png" height ="33" width="33"/></a>
 <a href="https://www.w3schools.com/html/default.asp" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/120693848-29937e00-c4c7-11eb-960c-c60ad4d1809d.png" height ="33" width="33"/></a> 
 <a href="https://www.w3schools.com/css/" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/122243599-e206ec00-cee1-11eb-8472-c554dc538cee.png" height ="33" width="33"/></a>
-<a href="https://www.figma.com/ui-design-tool/" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/122244058-35793a00-cee2-11eb-98ee-34fb45314d69.png" height ="33" width="33"/></a>.
+<a href="https://www.figma.com/ui-design-tool/" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/122244058-35793a00-cee2-11eb-98ee-34fb45314d69.png" height ="33" width="33"/></a>
+<a href="https://www.adobe.com/in/products/xd.html" target="blank"> <img align="left" src ="https://user-images.githubusercontent.com/78593368/125489601-638e6f7f-5b57-409d-a0bf-1ca7130f29a7.png" height ="33" width="33"/></a>.
 
 ## Connect with me :iphone:
 
